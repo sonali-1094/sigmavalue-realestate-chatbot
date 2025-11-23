@@ -1,3 +1,7 @@
+##  Demo Video (1–2 minutes)
+
+Watch the demo video here:  
+- https://drive.google.com/file/d/10jCI7md_FoS6JNgcKoepCzI9kX2waBkU/view?usp=sharing
 
 # Sigmavalue — Mini Real Estate Analysis Chatbot
 
