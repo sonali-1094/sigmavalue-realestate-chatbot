@@ -65,3 +65,6 @@ STATIC_URL = '/static/'
 # 🚀 Allow frontend requests
 CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOW_CREDENTIALS = True
+
+STATIC_URL = '/static/'
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
